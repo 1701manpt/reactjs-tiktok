@@ -1,0 +1,58 @@
+// Menu Items
+.menu-items {
+    width: 223px;
+
+    .menu-popper {
+        padding-bottom: 8px;
+    }
+
+    .menu-body {
+        overflow-y: auto;
+        max-height: min((100vh - 96px) - 60px, 734px);
+    }
+
+    .menu-item {
+        margin-left: 0;
+        width: 100%;
+        justify-content: start;
+        line-height: normal;
+        border: unset;
+        border-radius: unset;
+        cursor: pointer;
+
+        &:hover {
+            background: rgba(22, 24, 35, 0.06);
+        }
+
+        &.separate {
+            border-top: 1px solid #ccc;
+        }
+    }
+}
+
+// Header
+.header {
+    position: relative;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    width: 100%;
+    margin-top: -8px;
+}
+
+.back-btn {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    margin-left: 28px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.header-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
