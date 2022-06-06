@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NamThaPhu/reactjs-tiktok/static/css/main.a12c8648.css",
+    "main.js": "/NamThaPhu/reactjs-tiktok/static/js/main.56b5d37f.js",
+    "static/js/787.fe00223f.chunk.js": "/NamThaPhu/reactjs-tiktok/static/js/787.fe00223f.chunk.js",
+    "static/media/logo.svg": "/NamThaPhu/reactjs-tiktok/static/media/logo.d396a27392cb378b1c6a6340c7bdb822.svg",
+    "index.html": "/NamThaPhu/reactjs-tiktok/index.html",
+    "main.a12c8648.css.map": "/NamThaPhu/reactjs-tiktok/static/css/main.a12c8648.css.map",
+    "main.56b5d37f.js.map": "/NamThaPhu/reactjs-tiktok/static/js/main.56b5d37f.js.map",
+    "787.fe00223f.chunk.js.map": "/NamThaPhu/reactjs-tiktok/static/js/787.fe00223f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a12c8648.css",
+    "static/js/main.56b5d37f.js"
+  ]
+}
